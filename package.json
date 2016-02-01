@@ -1,0 +1,24 @@
+{
+  "name": "git-aware-prompt",
+  "version": "1.0.0",
+  "description": "Display current Git branch name in your terminal prompt when in a Git working directory.",
+  "main": "main.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solthoth/git-aware-prompt.git"
+  },
+  "keywords": [
+    "git",
+    "aware",
+    "prompt"
+  ],
+  "author": "Jim Myhrberg",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/solthoth/git-aware-prompt/issues"
+  },
+  "homepage": "https://github.com/solthoth/git-aware-prompt#readme"
+}
